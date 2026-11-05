@@ -24,6 +24,10 @@ main img {
     box-shadow: 0 0 30px gray;
 }
 
+main {
+    max-width: 150px;
+}
+
 p {
     padding: 0px;
 }
@@ -33,6 +37,7 @@ aside {
     margin: 1em;
     border: 1px solid rgba(0, 0, 0, 0.2);
     background-color: #eee;
+    padding: 20px;
     color: 1ee;
     text-align: center;
 }
