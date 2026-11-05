@@ -19,7 +19,7 @@ h1 {
 main img {
     width: 150px;
     height: auto;
-    border: ipx solid black;
+    border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
 }
@@ -38,7 +38,7 @@ aside {
     border: 1px solid rgba(0, 0, 0, 0.2);
     background-color: #eee;
     padding: 20px;
-    color: 1ee;
+    color: #333;
     text-align: center;
 }
 
