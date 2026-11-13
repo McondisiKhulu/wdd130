@@ -156,6 +156,10 @@ footer p {
     object-fit: contain;
 }
 
+.socialmedia {
+    text-decoration: none;
+}
+
 @media (max-width: 640px) {
 
     header,
